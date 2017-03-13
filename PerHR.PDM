@@ -1,0 +1,224 @@
+[Root]
+Most Recent Package=Personnel Manager
+
+
+[Package|Personnel Manager|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\TEMP\Applications
+
+[Package|Personnel Manager|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Personnel Manager|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Personnel Manager|Files Found]
+
+[Package|Personnel Manager|Files Released]
+Payzone.hlp=
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+
+[Package|Personnel Manager|Missing Dependency Information]
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=
+
+[Package|Personnel Manager|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSCAL.OCX=
+
+[Package|Personnel Manager|Files Added]
+
+[Package|Personnel Manager|Files Removed]
+
+[Package|Personnel Manager|Files In Project]
+C:\My Documents\Projects\PerHR\PerHR.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\Threed32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\MSADODC.OCX=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSBIND.DLL=Yes
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=Yes
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=Yes
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCAL.OCX=Yes
+C:\WINDOWS\SYSTEM\Grid32.OCX=Yes
+C:\WINDOWS\SYSTEM\crystl32.ocx=Yes
+C:\WINDOWS\SYSTEM\crpe32.dll=Yes
+C:\WINDOWS\SYSTEM\implode.dll=Yes
+C:\WINDOWS\SYSTEM\crpaig32.dll=Yes
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=Yes
+C:\WINDOWS\SYSTEM\Mfc42.dll=Yes
+C:\WINDOWS\Crystal\crxlat32.dll=Yes
+C:\WINDOWS\Crystal\p2bbde.dll=Yes
+C:\WINDOWS\SYSTEM\p2bbnd.dll=Yes
+C:\WINDOWS\SYSTEM\p2bdao.dll=Yes
+C:\WINDOWS\Crystal\p2bxbse.dll=Yes
+C:\WINDOWS\SYSTEM\p2ctdao.dll=Yes
+C:\WINDOWS\SYSTEM\p2irdao.dll=Yes
+C:\WINDOWS\Crystal\p2sifmx.dll=Yes
+C:\WINDOWS\SYSTEM\p2smon.dll=Yes
+C:\WINDOWS\SYSTEM\p2sodbc.dll=Yes
+C:\WINDOWS\Crystal\p2sora7.dll=Yes
+C:\WINDOWS\Crystal\p2ssql.dll=Yes
+C:\WINDOWS\Crystal\p2ssyb10.dll=Yes
+C:\WINDOWS\Crystal\p2soledb.dll=Yes
+C:\WINDOWS\Crystal\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2dmapi.dll=Yes
+C:\WINDOWS\Crystal\u2dnotes.dll=Yes
+C:\WINDOWS\Crystal\u2dpost.dll=Yes
+C:\WINDOWS\Crystal\u2dvim.dll=Yes
+C:\WINDOWS\Crystal\u2dapp.dll=Yes
+C:\WINDOWS\Crystal\u2fcr.dll=Yes
+C:\WINDOWS\Crystal\u2fhtml.dll=Yes
+C:\WINDOWS\Crystal\u2fodbc.dll=Yes
+C:\WINDOWS\Crystal\u2frec.dll=Yes
+C:\WINDOWS\Crystal\u2frtf.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2ftext.dll=Yes
+C:\WINDOWS\Crystal\u2fwks.dll=Yes
+C:\WINDOWS\Crystal\u2fwordw.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+C:\WINDOWS\Crystal\u25dts.dll=Yes
+C:\WINDOWS\Crystal\u2l2000.dll=Yes
+C:\WINDOWS\Crystal\u2lbar.dll=Yes
+C:\WINDOWS\Crystal\u2lcom.dll=Yes
+C:\WINDOWS\Crystal\u2ldts.dll=Yes
+C:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+C:\WINDOWS\Crystal\u252000.dll=Yes
+\program files\seagate software\sschart\SSCSDK32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup1.exe=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Personnel Manager|Configure Registry Files]
+Applicable=No
+
+[Package|Personnel Manager|Configure Remote Servers]
+Applicable=No
+
+[Package|Personnel Manager|Install Locations]
+C:\My Documents\Projects\PerHR\PerHR.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Threed32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCAL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Grid32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\crystl32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\implode.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\crpaig32.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Mfc42.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\crxlat32.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2smon.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u25dts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lbar.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ldts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup1.exe=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Personnel Manager|Configure Shared Files]
+Applicable=Yes
+C:\My Documents\Projects\PerHR\PerHR.exe=No
+C:\WINDOWS\SYSTEM\Grid32.OCX=No
+C:\WINDOWS\SYSTEM\implode.dll=No
+C:\WINDOWS\Crystal\u25dts.dll=No
+C:\WINDOWS\Crystal\u2lbar.dll=No
+C:\WINDOWS\Crystal\u2ldts.dll=No
+C:\WINDOWS\Crystal\u2lsamp1.dll=No
+
+[Package|Personnel Manager|Distribution]
+Type=single
+Size=
+Title=Human Resources
+
+[Package|Personnel Manager|IconGroups]
+Group0=Personnel Manager
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Personnel Manager|Personnel Manager]
+Icon1=PerHR.exe
+Title1=Human Resources
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Personnel Manager|Package]
+PackageFolder=C:\TEMP\Applications
+ProjectFolder=C:\My Documents\Projects\PerHR
+ServerSideCab=
+File1=C:\TEMP\Applications\setup.exe
+File2=C:\TEMP\Applications\Setup.Lst
+File3=C:\TEMP\Applications\PerHR.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
